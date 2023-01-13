@@ -1,0 +1,103 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+}
+header
+{
+border: 1px solid black;
+padding:20px 0px;
+}
+ul
+{
+display: flex;
+}
+li
+{
+  list-style: none;
+  margin: auto 10px;
+}
+.hexashop
+{
+font-size:3vw;
+}
+.top
+{
+  display: flex;
+  justify-content: space-between;
+}
+.li-explore
+{
+  margin-right: 110px;
+}
+.leftheading
+{
+  margin-left:7vw;
+}
+.rightmenu
+{
+  margin-top: 8px;
+}
+.middle
+{
+  display: flex;
+  margin-top: 6vh;
+}
+.leftbox
+{
+  height: 56vh;
+  width: 45vw;
+  background: url('images/left-banner-image.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.leftbox-matter
+{
+
+}
+.rightbox
+{
+  height: 90vh;
+  width:50vw;
+}
+.box1
+{
+  background: url('images/baner-right-image-01.jpg');
+}
+.box2
+{
+background: url('images/baner-right-image-02.jpg');
+}
+.box3
+{
+ background: url('images/baner-right-image-03.jpg');
+ background-size: cover;
+}
+.box4
+{
+  background: url('images/baner-right-image-04.jpg');
+}
+.right1
+{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 3vw;
+}
+.right2
+{
+  display: flex;
+  justify-content: space-between;
+  margin-top:43px;
+  margin-left: 3vw;
+
+}
+.inner-right
+{
+  height: 25vh;
+  width: 20vw;
+  background-color: red;
+  border: 1px black solid;
+}
